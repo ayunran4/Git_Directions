@@ -21,25 +21,25 @@ How to use Git
 9. Accept from Middle Storage
 	git pull --rebase origin master
 
-9. New repository
+10. New repository
 	git remote add origin <COPYED URL>
-10. Modify commit message
+11. Modify commit message
 	git commit -amend
-11. Fork repository
+12. Fork repository
 	git clone <Fork URL>
 
-12. Make branch
+13. Make branch
 	git checkout -b <branch>
-13. Change branch
+14. Change branch
 	git checkout
-14. Combine branch
+15. Combine branch
 	git merge <branch>
 
-15. Check who modify
+16. Check who modify
 	git blame <file name>
-16. Verify commit info at that time
+17. Verify commit info at that time
 	git show <Commit ID>
-17. Modify Commit
+18. Modify Commit
 	git rebase -i HEAD~(N)
 	git commit --amend
 	git rebase --continue
