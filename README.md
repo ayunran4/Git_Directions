@@ -1,2 +1,2 @@
 #Git Directions
-This is a repository about Git descriptions.
+This is a repository about Git directions.
