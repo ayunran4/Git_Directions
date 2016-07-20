@@ -18,6 +18,8 @@ How to use Git
 	git diff
 8. Verify current commit
 	git show
+9. Accept from Middle Storage
+	git pull --rebase origin master
 
 9. New repository
 	git remote add origin <COPYED URL>
