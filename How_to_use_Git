@@ -43,3 +43,5 @@ How to use Git
 	git rebase -i HEAD~(N)
 	git commit --amend
 	git rebase --continue
+19.Cover local code to remote before PUSH
+	git push origin +master
